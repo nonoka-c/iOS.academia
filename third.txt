@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 コンフリクトについて学習中！
+Learning about conflicts!
+=======
+コンフリクトについて学習中！
+>>>>>>> master
