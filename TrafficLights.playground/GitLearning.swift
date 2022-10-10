@@ -1,4 +1,4 @@
-// 差分
+// 差分作成
 import Foundation // Timerクラスを使用するために必要なモジュール
 import PlaygroundSupport // Playground上でTimerクラスを機能させるために必要なモジュール
 
